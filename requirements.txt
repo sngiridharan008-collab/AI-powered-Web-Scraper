@@ -1,0 +1,14 @@
+streamlit 
+langchain 
+langchain_ollama
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
+
+
+.\ai\scripts\activate.ps1
+streamlit run main.py
+hey can you put all the main titles from this website in a table for me?
+Can you please collect all the relevant property information and organize it in a table?
